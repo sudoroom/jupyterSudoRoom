@@ -1,0 +1,2 @@
+Click the link below to see this Jupyter Notebook map rendered:
+[https://nbviewer.org/github/sudoroom/jupyterSudoRoom/blob/main/languages_in_oakland/oakland.ipynb](https://nbviewer.org/github/sudoroom/jupyterSudoRoom/blob/main/languages_in_oakland/oakland.ipynb)
